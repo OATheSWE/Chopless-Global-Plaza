@@ -1,0 +1,17 @@
+{
+  "name": "the-chop-less-project",
+  "version": "1.0.0",
+  "description": "Chop Less Global Plaza Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chop",
+    "Less",
+    "Global",
+    "Plaza"
+  ],
+  "author": "Osborne Molen",
+  "license": "ISC"
+}
